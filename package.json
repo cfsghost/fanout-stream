@@ -1,0 +1,23 @@
+{
+  "name": "fanout-stream",
+  "version": "1.0.0",
+  "description": "fan out from srouce to streams and collect its output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfsghost/fanout-stream.git"
+  },
+  "keywords": [
+    "stream",
+    "fanout"
+  ],
+  "author": "Fred Chien <cfsghost@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cfsghost/fanout-stream/issues"
+  },
+  "homepage": "https://github.com/cfsghost/fanout-stream#readme"
+}
