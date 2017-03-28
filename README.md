@@ -19,6 +19,7 @@ var fanoutStream = fanout.createFanoutStream([
 	outputStream1,
 	outputStream2,
 ], { objectMode: true });
+```
 
 License
 ---
