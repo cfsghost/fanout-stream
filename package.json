@@ -1,6 +1,6 @@
 {
   "name": "fanout-stream",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "fan out from srouce to streams and collect its output",
   "main": "index.js",
   "scripts": {
